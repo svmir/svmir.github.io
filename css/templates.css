@@ -1,0 +1,28 @@
+/*========================================================== Aoutus  ===============================================================*/
+/*---- Aoutus banner ----*/
+#aboutus-banner{background-image: url(../images/2.jpeg);position:relative;padding:30px 0;}
+#aboutus-banner:before{background-color: #000;bottom: 0;content: "";left: 0;position: absolute;right: 0;top: 0;opacity:0.8;}
+#aboutus-banner.parallax{background-attachment: fixed;background-position: center;background-repeat: no-repeat;background-size: cover;}
+#aboutus-banner.parallax .container .row .banner{height:400px;}
+#aboutus-banner.parallax .container .row .banner h3{font-size:40px;line-height:200px;text-align:center;color:#fafafa;}
+#aboutus-banner.parallax .container .row .banner h4{color:#fafafa;letter-spacing:1px;}
+#aboutus-banner.parallax .container .row .banner h4 a{color:#fafafa;text-decoration:none;}
+#aboutus-banner.parallax .container .row .banner h4 i{margin-right:5px;}
+
+/*---- Customer ----*/
+#customer .container .row .owl-item{border: 2px solid #e41892;}
+#customer .container .row .owl-item img{height:125px;}
+
+/*========================================================== Services  ===============================================================*/
+#service-banner{background-image: url(../images/2.jpeg);position:relative;padding:30px 0;}
+#service-banner:before{background-color: #000;bottom: 0;content: "";left: 0;position: absolute;right: 0;top: 0;opacity:0.8;}
+#service-banner.parallax{background-attachment: fixed;background-position: center;background-repeat: no-repeat;background-size: cover;}
+#service-banner.parallax .container .row .banner{height:400px;}
+#service-banner.parallax .container .row .banner h3{font-size:40px;line-height:200px;text-align:center;color:#fafafa;}
+#service-banner.parallax .container .row .banner h4{color:#fafafa;letter-spacing:1px;}
+#service-banner.parallax .container .row .banner h4 a{color:#fafafa;text-decoration:none;}
+#service-banner.parallax .container .row .banner h4 i{margin-right:5px;}
+
+#service-contact{background:#FDFDFD;}
+#service-contact .container .row p{font-size:26px;color:#5f575b;margin-bottom:45px;}
+#service-contact .container .row h3{font-size:34px;}
